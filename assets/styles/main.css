@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    --fontSize:10px;
+    --webColor:rgb(15, 15, 15);
+    --webColor2:red;
+    --bgColor:rgb(255, 255, 255);
+    --webFont1: 'Poppins', sans-serif;
+    --ok:red;
+    --light:'GeneralSans-Light';
+    --regular:'GeneralSans-Regular';
+    --medium:'GeneralSans-Medium';
+    --bold:'GeneralSans-Semibold';
+    --black:'GeneralSans-Bold';
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.4s;
+}
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+}
+
+html{
+  font-size: var(--fontSize);
+  scroll-behavior: smooth;   
+}
+
+a:active{
+  color: black;
+}
+
+
+body{
+  font-family:var(--webFont1);
+
+  /* font-family:var(--webFont1,--webFont2); */
+  /* font-family:"General Sans", sans-serif, "Satoshi", sans-serif, 'Alpino', sans-serif; */
+  background-color: var(--bgColor);
+  overflow-x: hidden;
+  min-height: 100vh;
+}
