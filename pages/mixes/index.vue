@@ -87,7 +87,7 @@ let searchMix = ref('')
 let time = ref('all')
 setTimeout(()=>{
     document.getElementById("mts").style.opacity = .5;
-},1220000)
+},122000000)
 
 function mixCategorySelected(e){
     let mixCategoriesPContainer = document.querySelector('.bc-content')
