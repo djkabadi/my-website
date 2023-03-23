@@ -1,4 +1,4 @@
-export const mixes = [
+export const mix = [
     {
         "id":"the-billion-experience-mix" ,
         "title": "the billion experience mix (ft Dj Ocheezy)",
