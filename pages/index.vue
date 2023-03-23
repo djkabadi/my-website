@@ -121,7 +121,7 @@ const {data:newMixes} = await useFetch('/api/new')
 
 setTimeout(()=>{
     document.getElementById("or-d").style.opacity = .5;
-},1220000)
+},122000000)
 
 </script>
 
