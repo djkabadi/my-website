@@ -7,7 +7,7 @@
             </div>
         </div>
 
-        <div class="mix-top-section">
+        <div id="mts" class="mix-top-section">
                 <div class="mts-content">
                     <div class="mts">
                         
@@ -85,6 +85,9 @@ defineProps({
 let searchMix = ref('')
 
 let time = ref('all')
+setTimeout(()=>{
+    document.getElementById("mts").style.opacity = .5;
+},1220000)
 
 function mixCategorySelected(e){
     let mixCategoriesPContainer = document.querySelector('.bc-content')
