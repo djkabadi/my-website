@@ -1,5 +1,5 @@
 <template>
-    <div class="outer-root-div">
+    <div id= "or-d" class="outer-root-div">
 
             <section  class="top-section">
                 <div class="ts-content">
@@ -118,6 +118,10 @@
 //     .from('.ts-title, .info, .ts-cta',{opacity:0,stagger:.07, y:32})
 // }
 const {data:newMixes} = await useFetch('/api/new')
+
+setTimeout(()=>{
+    document.getElementById("or-d").style.opacity = .5;
+},1220000)
 
 </script>
 
