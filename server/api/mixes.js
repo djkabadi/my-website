@@ -1,14 +1,19 @@
 export const mixes = [
     {
         "id":"bongo-mixtape-2023" ,
-        "title": "bongo mixtape 2023 by dj kabadi",
+        "title": "Bongo Mixtape 2023 by DJ Kabadi",
         "date": 2023,
         "mix_likes":102,
         "youtube_url":"",
         "download_url":"https://www.mediafire.com/file/gu10g2m6lq35wnr/DJ_KABADI_-_BONGO_MIX_2023%255B1%255D.mp3/file",
         "period":"latest",
         "description": [
-           " 1.Woosh by Mr Right {Buruklyn Boyz}",
+           " 1.Intro",
+            " 2.Nakuja by Tommy Flavour Ft Marioo",
+            " 3.Sawa by Jay Melody",
+            " 4.Nakupenda by Jay Melody",
+            " 5.Yatapita by Diamond Platnumz",
+            " 6.Nitasema by Jay Melody",
            " 7.Kioo by Harmonize ft Angella",
            " 8.You by Bruce Africa",
            " 9.Bembeleze by Willy Paul ft Nandy",
