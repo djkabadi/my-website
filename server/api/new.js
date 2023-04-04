@@ -3,7 +3,7 @@ const newMixes = [
 
   {
         "id":"bongo-mixtape-2023" ,
-        "title": "Bongo Mixtape 2023 by DJ Kabadi",
+        "title": "Bongo Mixtape 2023",
         "date": 2023,
         "mix_likes":102,
         "youtube_url":"",
