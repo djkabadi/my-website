@@ -2,16 +2,45 @@
 const newMixes = [
 
   {
-    "id":"crunk-it-up-mix-vol-2",
-    "title":"crunk it up vol 2",
-    "date":2022,
-    "mix_likes":352,
-    "download_url":"https://download1651.mediafire.com/lk04ti9ihnag/q9bkolfugwa0fa2/CRUNK+IT+UP+MIX+VOL+2+BY+DJ+KABADI.mp3",
-    "period":"latest",
-    // "description":,
-    "category":"",
-    "image_url":"https://github.com/djkabadi/images/blob/main/crunk2.jpg?raw=true"
-  },
+        "id":"bongo-mixtape-2023" ,
+        "title": "Bongo Mixtape 2023 by DJ Kabadi",
+        "date": 2023,
+        "mix_likes":102,
+        "youtube_url":"",
+        "download_url":"https://www.mediafire.com/file/gu10g2m6lq35wnr/DJ_KABADI_-_BONGO_MIX_2023%255B1%255D.mp3/file",
+        "period":"latest",
+        "description": [
+           " 1.Intro",
+            " 2.Nakuja by Tommy Flavour Ft Marioo",
+            " 3.Sawa by Jay Melody",
+            " 4.Nakupenda by Jay Melody",
+            " 5.Yatapita by Diamond Platnumz",
+            " 6.Nitasema by Jay Melody",
+           " 7.Kioo by Harmonize ft Angella",
+           " 8.You by Bruce Africa",
+           " 9.Bembeleze by Willy Paul ft Nandy",
+           " 10.Pele pele by Rayvanny ft Luana Vjollca",
+           " 11.I Wish by Kusah",
+            " 12.Sugar Rmx by Jay Melody ft MArioo",
+            " 13.Utu by Alikiba",
+            " 14.No body by Darassa ft Bien",
+            " 15.Mdomo by Harmonize ft Ibraah",
+            " 16.Jugni by Diljit Dosanjh ft Diamond Platnumz",
+            " 17.Senorita by Rayvanny ft Gims",
+            " 18.Huyu HApa by Mbosso",
+            " 19.Mtaalam by Mbosso",
+            " 20.Baikoko by Mbosso ft Diamond Platnumz",
+            " 21.Zuwena by Diamond Platnumz",
+            " 22.Yuda by Nandy",
+            " 23.Lalala by Alikiba ft K2ga, Vanillah, Abdukiba, Tommy Flavour",
+            " 24.Gidi by Diamond Platnumz",
+            " 25.Zeze by Jay Melody",
+            " 26.Nisamehe by Barakah the Prince ft Alikiba",
+        ],
+         "category": "",
+         "image_url":"https://github.com/djkabadi/images/blob/main/BONGO%20MIX%20C.jpg?raw=true"
+      },
+  
     {
         "id":"afrobeat-mix-vol-3" ,
         "title": "afrobeat mix vol 3",
@@ -70,6 +99,18 @@ const newMixes = [
         "mix_likes":324,
         "image_url":"https://github.com/djkabadi/images/blob/main/ADDICTION%201%20AMAPIANO.jpg?raw=true"
       },
+  
+  {
+    "id":"crunk-it-up-mix-vol-2",
+    "title":"crunk it up vol 2",
+    "date":2022,
+    "mix_likes":352,
+    "download_url":"https://download1651.mediafire.com/lk04ti9ihnag/q9bkolfugwa0fa2/CRUNK+IT+UP+MIX+VOL+2+BY+DJ+KABADI.mp3",
+    "period":"latest",
+    // "description":,
+    "category":"",
+    "image_url":"https://github.com/djkabadi/images/blob/main/crunk2.jpg?raw=true"
+  },
 
 ]
 export default defineEventHandler(()=>{
