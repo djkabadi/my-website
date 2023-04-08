@@ -3,7 +3,7 @@ export const mixes = [
         "id":"bongo-mixtape-2023" ,
         "title": "Bongo Mixtape 2023 by DJ Kabadi",
         "date": 2023,
-        "mix_likes":102,
+        "mix_likes":1635,
         "youtube_url":"",
         "download_url":"https://www.mediafire.com/file/gu10g2m6lq35wnr/DJ_KABADI_-_BONGO_MIX_2023%255B1%255D.mp3/file",
         "period":"latest",
