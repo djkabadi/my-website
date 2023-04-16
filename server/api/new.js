@@ -89,16 +89,7 @@ const newMixes = [
          "image_url":"https://github.com/djkabadi/images/blob/main/BONGO%20MIX%20C.jpg?raw=true"
       },
   
-    {
-        "id":"afrobeat-mix-vol-3" ,
-        "title": "afrobeat mix vol 3",
-        "date": 2022,
-        "mix_likes":322,
-        "youtube_url":"",
-        "download_url":"https://download1082.mediafire.com/zoqlv2qml9pg/f0aoajrc8fza486/DJ+KABADI+-+AFROBEAT+MIX+VOL3.mp3",
-         "category": "",
-         "image_url":"https://github.com/djkabadi/images/blob/main/AFROBT3.jpg?raw=true"
-      },
+ 
     {
         "id":"kenyan-drill-mix" ,
         "title": "kenyan drill mix",
@@ -146,6 +137,17 @@ const newMixes = [
         "category": "",
         "mix_likes":324,
         "image_url":"https://github.com/djkabadi/images/blob/main/ADDICTION%201%20AMAPIANO.jpg?raw=true"
+      },
+  
+  {
+        "id":"afrobeat-mix-vol-3" ,
+        "title": "afrobeat mix vol 3",
+        "date": 2022,
+        "mix_likes":322,
+        "youtube_url":"",
+        "download_url":"https://download1082.mediafire.com/zoqlv2qml9pg/f0aoajrc8fza486/DJ+KABADI+-+AFROBEAT+MIX+VOL3.mp3",
+         "category": "",
+         "image_url":"https://github.com/djkabadi/images/blob/main/AFROBT3.jpg?raw=true"
       },
   
 
