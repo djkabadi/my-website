@@ -1,5 +1,17 @@
 export const mixes = [
     {
+    "id":"afrobeat-vol5-mix",
+    "title":"Afrobeat Vol5 Mix",
+    "date":2023,
+    "mix_likes":178,
+    "download_url":"https://hearthis.at/dj-kabadi254/dj-kabadi-afrobeats-vol5-mix-2023/download/?secret=wJoi3",
+    "period":"latest",
+    // "description":,
+    "category":"",
+    "image_url":"https://github.com/djkabadi/images/blob/main/AFROBEAT%205.jpg"
+  },
+    
+    {
         "id":"bongo-mixtape-2023" ,
         "title": "Bongo Mixtape 2023 by DJ Kabadi",
         "date": 2023,
