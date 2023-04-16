@@ -2,6 +2,19 @@
 const newMixes = [
 
   {
+    "id":"afrobeat-vol5-mix",
+    "title":"Afrobeat Vol5 Mix",
+    "date":2023,
+    "mix_likes":178,
+    "download_url":"https://hearthis.at/dj-kabadi254/dj-kabadi-afrobeats-vol5-mix-2023/download/?secret=wJoi3",
+    "period":"latest",
+    // "description":,
+    "category":"",
+    "image_url":"https://github.com/djkabadi/images/blob/main/AFROBEAT%205.jpg"
+  },
+
+  
+  {
         "id":"bongo-mixtape-2023" ,
         "title": "Bongo Mixtape 2023",
         "date": 2023,
@@ -100,17 +113,6 @@ const newMixes = [
         "image_url":"https://github.com/djkabadi/images/blob/main/ADDICTION%201%20AMAPIANO.jpg?raw=true"
       },
   
-  {
-    "id":"crunk-it-up-mix-vol-2",
-    "title":"crunk it up vol 2",
-    "date":2022,
-    "mix_likes":352,
-    "download_url":"https://download1651.mediafire.com/lk04ti9ihnag/q9bkolfugwa0fa2/CRUNK+IT+UP+MIX+VOL+2+BY+DJ+KABADI.mp3",
-    "period":"latest",
-    // "description":,
-    "category":"",
-    "image_url":"https://github.com/djkabadi/images/blob/main/crunk2.jpg?raw=true"
-  },
 
 ]
 export default defineEventHandler(()=>{
