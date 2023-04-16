@@ -8,7 +8,7 @@ export const mixes = [
     "period":"latest",
     // "description":,
     "category":"",
-    "image_url":"https://github.com/djkabadi/images/blob/main/AFROBEAT%205.jpg"
+    "image_url":"https://github.com/djkabadi/images/blob/main/AFROBEAT%205.jpg?raw=true"
   },
     
     {
