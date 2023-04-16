@@ -6,7 +6,7 @@ const newMixes = [
     "title":"Afrobeat Vol5 Mix",
     "date":2023,
     "mix_likes":178,
-    "download_url":"https://hearthis.at/dj-kabadi254/dj-kabadi-afrobeats-vol5-mix-2023/download/?secret=wJoi3",
+    "download_url":"https://hearthis.at/dj-kabadi254/dj-kabadi-afrobeats-vol5-mix-2023/download/",
     "period":"latest",
     // "description":,
     "category":"",
