@@ -6,7 +6,7 @@
                    
                     <div class="ts-div">
                         <h1 class="ts-title">dj kabadi</h1>
-                        <p class="info">DJ Kabadi is a music enthusiast, hence has a diverse taste in many music genres, from Hip hop, EDM to Reggae music.</p>
+                        <p class="info">Enter the realm of DJ Kabadi and give in to the sounds' seductive seduction. Join us on this musical journey where rhythm is king and music serves as the common language that connects us all. </b>As DJ Kabadi continues to alter the fundamental nature of music, get ready to be swept up in the magic.</p>
                   
                         <NuxtLink to="/mixes" class="ts-cta">DISCOVER</NuxtLink>
                     </div>
