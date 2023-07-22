@@ -87,8 +87,7 @@ export const mixes = [
             "31.Common Person by Burna Boy",
             "32.Kolomental by Victony",
             "33.My Baby by Bien ft Ayra Starr",
-         ],
-        
+     ],
         
     "category":"",
     "image_url":"https://github.com/djkabadi/images/blob/main/AFROBEAT%205.jpg?raw=true"
