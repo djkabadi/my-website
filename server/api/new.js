@@ -135,45 +135,7 @@ const newMixes = [
          "category": "",
          "image_url":"https://github.com/djkabadi/images/blob/main/BONGO%20MIX%20C.jpg?raw=true"
       },
-  
- 
-    {
-        "id":"kenyan-drill-mix" ,
-        "title": "kenyan drill mix",
-        "date": 2022,
-        "mix_likes":78,
-        "youtube_url":"",
-        "download_url":"https://download1980.mediafire.com/kiqwscvy12hg/0iutk72whlsvhqq/DJ+KABADI+-+KENYAN+DRILL+MIX+2022++Buruklyn+Boyz%2C+Wakadinali%2C+GTA+Tv.mp3",
-        "category": "",
-        "description": [
-          " 1.Woosh by Mr Right {Buruklyn Boyz}",
-          " 2.Charged Up by Mando x Natty",
-          " 3.Dream ya Kutoka Kwa Block by Buruklyn Boyz",
-          " 4.Blanda by Ghetto Champs ft Rudra Kartel",
-          " 5.Avoid Those People by Wakadinali ft All Stars",
-           "6.Love Song by Wakadinali",
-          " 7.Wild by Buruklyn Boyz, Ajay",
-          " 8.Step by Smurph k27 ft Chana 4 Prez",
-          " 9.Nairobi by Buruklyn Boyz",
-           "10.Mtoto ni Mrembo by Wakadinali",
-          " 11.Corns Freestyle by Buruklyn Boyz, Ajay",
-           "12.Mrenga by Wakadinali",
-          "13.Ki Dejavu by Mr Right, Ajay, Davaji, Ksplash",
-           "14.Billie Jean by Buruklyn Boyz",
-          " 15.Location 58 by Buruklyn Boyz",
-          " 16.Piga Lean by Buruklyn Boyz",
-          " 17.Extra Pressure by Wakadinali",
-          " 18.Nairobbery by PRXNCE",
-          " 19.Iraq by Natty",
-          " 20.2 Faced by Yammy Gang ft YS 28th",
-          " 21.NyaraNyara by Wakadinali",
-          " 22.Morio Anzenza by Wakadinali ft Dyana Cods",
-           "23.Mbona by Boutross",
-           "24.Fine Settings by Trio Mio",
-           "25.Umoroto by Wakadinali",
-       ],
-        "image_url":"https://github.com/djkabadi/images/blob/main/drill.jpg?raw=true"
-      },
+   
       {
         "id": "the-addiction-mix",
         "title": "the addiction mix",
