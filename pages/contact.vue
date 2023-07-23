@@ -21,7 +21,7 @@
                             <h3>Phone</h3>
                             <p>+254 759 111 303</p>
                             <h3>Email</h3>
-                            <a href="mailto:info@djkabadi.co.ke">info@djkabadi.co.ke</a>
+                            <a href="mailto:kelvokabadi254@gmail.com">kelvokabadi254@gmail.com</a>
                         </div>
 
                     </div>
