@@ -112,7 +112,7 @@ useHead({
             property:'og:site:name', content:`DJ Kabadi | ${item.value[0].title}`
         },
         {
-            property:'og:type', content:'website'
+            property:'og:type', content:'https://djkabadi.com'
         },
         {
             property:'og:description', content:`Download and listen to ${item.value[0].title} by DJ Kabadi`
