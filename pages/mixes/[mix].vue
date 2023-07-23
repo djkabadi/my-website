@@ -16,7 +16,7 @@
                             <img :src=item[0].image_url alt="">
                         </div>
                         <div class="ctas">
-                            <a class="ctas-a" :href=item[0].download_url download>download mix</a>
+                            <a class="ctas-a" target="_blank" rel="noopener noreferrer" :href=item[0].download_url download>download mix</a>
                             <!-- <a :href=item[0].youtube_url download>Play on youtube</a> -->
                         </div>
 
