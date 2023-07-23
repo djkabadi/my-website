@@ -16,7 +16,7 @@
                 <div class="dl-content">
                 <h3>Click on a mix to download.</h3>
                     <div class="dl-mix-item">
-                        <p v-for="item in mixes"><a download="" :href=item.download_url>{{item.mix_name}}</a></p>
+                        <p v-for="item in mixes"><a target="_blank" rel="noopener noreferrer" download="" :href=item.download_url>{{item.mix_name}}</a></p>
     
                     </div>
                 </div>
