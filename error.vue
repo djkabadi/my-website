@@ -3,7 +3,7 @@
 
         <div class="err-d">
             <div class="err-content">
-                <h3 class="err-name">page not found :(</h3>
+                <h3 class="err-name">page not found</h3>
                 <NuxtLink to="/">return home</NuxtLink>
             </div>
         </div>
