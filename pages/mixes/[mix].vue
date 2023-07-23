@@ -106,7 +106,7 @@ useHead({
             property:'og:image', content:item.value[0].image_url
         },
         {
-            property:'og:url', content:`https://djkabadi.netlify.app/mixes/${item.value[0].id}`,
+            property:'og:url', content:`https://djkabadi.com/mixes/${item.value[0].id}`,
         },
         {
             property:'og:site:name', content:`DJ Kabadi | ${item.value[0].title}`
