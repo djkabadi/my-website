@@ -102,7 +102,8 @@ const newMixes = [
         "date": 2023,
         "mix_likes":102,
         "youtube_url":"",
-        "download_url":"https://www.mediafire.com/file/gu10g2m6lq35wnr/DJ_KABADI_-_BONGO_MIX_2023%255B1%255D.mp3/file",
+        "download_url":"https://download1502.mediafire.com/cyrpfkqewv3ggYMB5wQGtXQQkR4l6p8k1TB44sT2EURhweZMAcw-nd5Dg5n9gHpTqeUQho-_rvyfPFEtTPiGOwttycCXnJcdxp9fO-JMR2Fb6WV1gq8ZiUy8PeLfaprq0WPHJYtoo0l7f5xr3f0RqZutNe0kQywsBKTeUDjvp8nK/gu10g2m6lq35wnr/DJ_KABADI_-_BONGO_MIX_2023%5B1%5D.mp3",
+    
         "period":"latest",
         "description": [
            " 1.Intro",
