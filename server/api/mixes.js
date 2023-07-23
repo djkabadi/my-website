@@ -51,7 +51,7 @@ export const mixes = [
     "title":"Afrobeat Vol5 Mix",
     "date":2023,
     "mix_likes":178,
-    "download_url":"https://hearthis.at/dj-kabadi254/dj-kabadi-afrobeats-vol5-mix-2023/download/",
+    "download_url":"https://hearthis.at/djkabadi/dj-kabadi-afrobeats-vol5-mix-2023/download/",
     "period":"latest",
      "description": [
             "1.Ta Ta Ta Remix by Bayanni ft Jason Derulo",
