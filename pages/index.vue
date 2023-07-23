@@ -6,7 +6,7 @@
                    
                     <div class="ts-div">
                         <h1 class="ts-title">dj kabadi</h1>
-                        <p class="info">Enter the realm of DJ Kabadi and give in to the sounds' seductive seduction.<br>Join us on this musical journey where rhythm is king and music serves as the common language that connects us all.<br>As DJ Kabadi continues to alter the fundamental nature of music, get ready to be swept up in the magic.</p>
+                        <p class="info">Enter the realm of DJ Kabadi and give in to the sounds' seductive seduction.<br>Join us on this musical journey where rhythm is king and music serves as the common language that connects us all.</p>
                   
                         <NuxtLink to="/mixes" class="ts-cta">DISCOVER</NuxtLink>
                     </div>
