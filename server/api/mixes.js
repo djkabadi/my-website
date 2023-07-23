@@ -1,7 +1,7 @@
 export const mixes = [
     {
         "id":"kenyan-drill-mix-vol2-ft-wakadinali-buruklyn-boyz-breeder-lw" ,
-        "title": "KENYAN DRILL MIX VOL 2 Ft Wakadinali, Buruklyn Boyz, Breeder LW",
+        "title": "KENYAN DRILL MIX VOL 2",
         "date": 2023,
         "mix_likes":173,
         "youtube_url":"https://youtu.be/2-o69nG6Fxc",
