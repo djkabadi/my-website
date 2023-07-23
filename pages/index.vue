@@ -72,11 +72,11 @@
                         <div class="tss-div">
                             <div class="tss-grid">
                                 <div class="ts">
-                                    <p>1.8M+</p>
+                                    <p>25M+</p>
                                     <span>youtube views</span>
                                 </div>
                                 <div class="ts">
-                                    <p>18K+</p>
+                                    <p>30K+</p>
                                     <span>subscribers</span>
                                 </div>
                                 <div class="ts">
