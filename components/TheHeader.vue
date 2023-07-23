@@ -18,7 +18,7 @@
                         <li class="git">
                             <div class="git-div">
                                 <p>Get in touch </p>
-                                <a href="mailto:info@djkabadi.co.ke" >info@djkabadi.co.ke</a>
+                                <a href="mailto:kelvokabadi254@gmail.com">kelvokabadi254@gmail.com</a>
                             </div>
                             <div class="socials">
                                 <a href="https://twitter.com/kelvokabirdy" target="_blank">
