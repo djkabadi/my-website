@@ -2,7 +2,7 @@
 const newMixes = [
 
   {
-        "id": "club-bangers-mix",
+        "id": "club-bangers-mix-ft-dj-daddiko",
         "title": "club bangers mix",
         "date": 2023,
         "period":"popular",
