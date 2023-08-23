@@ -1,4 +1,17 @@
 export const mixes = [
+
+    {
+        "id": "club-bangers-mix",
+        "title": "club bangers mix",
+        "date": 2023,
+        "period":"popular",
+        "description": "",
+        "download_url":"",
+        "category": "",
+        "mix_likes":1024,
+        "image_url":"https://github.com/djkabadi/images/blob/main/CLUB%20BNG.jpg?raw=true"
+      },
+    
     {
         "id":"kenyan-drill-mix-vol2-ft-wakadinali-buruklyn-boyz-breeder-lw" ,
         "title": "KENYAN DRILL MIX VOL 2",
