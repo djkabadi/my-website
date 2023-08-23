@@ -9,12 +9,12 @@ const newMixes = [
         "description": "",
         "download_url":"",
         "category": "",
-        "mix_likes":324,
+        "mix_likes":1024,
         "image_url":"https://github.com/djkabadi/images/blob/main/CLUB%20BNG.jpg?raw=true"
       },
   {
         "id":"kenyan-drill-mix-vol2-ft-wakadinali-buruklyn-boyz-breeder-lw" ,
-        "title": "KENYAN DRILL MIX VOL 2",
+        "title": "KENYAN DRILL MIX VOL2",
         "date": 2023,
         "mix_likes":173,
         "youtube_url":"https://youtu.be/2-o69nG6Fxc",
