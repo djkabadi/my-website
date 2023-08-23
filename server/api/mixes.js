@@ -6,7 +6,7 @@ export const mixes = [
         "date": 2023,
         "period":"popular",
         "description": "",
-        "download_url":"",
+        "download_url":"https://hearthis.at/djkabadi/new-2023-club-bangers-video-mix-dj-kabadi-x-dj-daddiko-ft-fathermoh-kaskie-vibaya-party-mixmp4/download/",
         "category": "",
         "mix_likes":1024,
         "image_url":"https://github.com/djkabadi/images/blob/main/CLUB%20BNG.jpg?raw=true"
