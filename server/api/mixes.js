@@ -1,4 +1,15 @@
 export const mixes = [
+     {
+        "id": "best-of-2023-mix",
+        "title": "best of 2023 mix",
+        "date": 2023,
+        "period":"popular",
+        "description": "",
+        "download_url":"https://hearthis.at/djkabadi/best-of-2023-trending-mix-by-dj-kabadi-ft-lil-maina-ybw-smith-maandy-arbantone-vs-dancehall/download/",
+        "category": "",
+        "mix_likes":365,
+        "image_url":"https://github.com/djkabadi/images/blob/main/2023%20MX.jpg?raw=true"
+      },
 
     {
         "id": "club-bangers-mix-ft-dj-daddiko",
