@@ -159,17 +159,6 @@ const newMixes = [
          "image_url":"https://github.com/djkabadi/images/blob/main/BONGO%20MIX%20C.jpg?raw=true"
       },
    
-      {
-        "id": "the-addiction-mix",
-        "title": "the addiction mix",
-        "date": 2022,
-        "period":"popular",
-        "description": "",
-        "download_url":"https://download1492.mediafire.com/4wxpjzp68etg/0nxr6fm85xj0ezb/THE+ADDICTION+MIX+1+%5BAMAPIANO+EDITION%5D+-+DJ+KABADI.mp3",
-        "category": "",
-        "mix_likes":324,
-        "image_url":"https://github.com/djkabadi/images/blob/main/ADDICTION%201%20AMAPIANO.jpg?raw=true"
-      },
   
 
 ]
